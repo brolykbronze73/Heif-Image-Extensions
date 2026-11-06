@@ -200,3 +200,6 @@ This repository serves as the official landing page for HEIF Image Extensions. T
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of HEIF Image Extensions today!**
+
+---
+**Last updated:** 2026-11-06 14:43:48 UTC
