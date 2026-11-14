@@ -202,4 +202,4 @@ This repository serves as the official landing page for HEIF Image Extensions. T
 **Get the most recent version of HEIF Image Extensions today!**
 
 ---
-**Last updated:** 2026-11-14 01:09:58 UTC
+**Last updated:** 2026-11-14 08:23:47 UTC
